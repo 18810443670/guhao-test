@@ -3,7 +3,8 @@
   "description": "test",
   "type": "library",
   "require": {
-    "php": "^7.4"
+    "php": "^7.4",
+    "php-amqplib/php-amqplib": "^3.2"
   },
   "require-dev": {
     "php": "^7.4"
